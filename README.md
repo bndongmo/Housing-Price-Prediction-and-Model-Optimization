@@ -1,6 +1,6 @@
 # Housing-Price-Prediction-and-Model-Optimization
 
-This project focuses on predicting housing prices in California using various regression models. The models are optimized using Optuna, a hyperparameter optimization framework. The project involves feature engineering, model training, and evaluation of multiple regression models including XGBoost, LinearSVR, and KNeighborsRegressor.
+This project focuses on predicting housing prices in California using various regression models. The models are optimized using Optuna, a hyperparameter optimization framework. The project involves feature engineering, model training, and evaluation of multiple regression models.
 
 ## Project Overview
 
